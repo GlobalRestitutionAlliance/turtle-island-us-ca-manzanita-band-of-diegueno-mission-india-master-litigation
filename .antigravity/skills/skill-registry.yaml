@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: manzanita-band-of-diegueno-mission-indian-restitution-roadmap-and-qsf-trust-execution
+  name: Manzanita Band of Diegueno Mission Indian Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/manzanita-band-of-diegueno-mission-indian-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
