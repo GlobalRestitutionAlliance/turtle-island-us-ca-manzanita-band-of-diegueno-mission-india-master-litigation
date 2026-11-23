@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+MANZANITA+BAND+OF+DIEGUENO+MISSION+INDIA",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+MANZANITA+BAND+OF+DIEGUENO+MISSION+INDIA",
+  "title": "Federal Register - CA MANZANITA BAND OF DIEGUENO MISSION INDIA",
+  "fetched_at": "2026-11-23T17:58:14.832625Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 101674,
+  "sha256": "6f6c1866fae805399576959e8efed1c5aed4dfb9f9e0d21dff0a08be1df0bf29",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
